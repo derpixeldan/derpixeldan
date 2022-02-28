@@ -1,4 +1,4 @@
-# ![e574db06e977cc85](https://user-images.githubusercontent.com/38112871/156017673-68401a42-b1b9-4954-81ba-d44e9b58c55b.gif) |-|! 5|_||>
+# <img src="https://user-images.githubusercontent.com/38112871/156017673-68401a42-b1b9-4954-81ba-d44e9b58c55b.gif" align="middle"> |-|! 5|_||> <img align="bottom" src="https://user-images.githubusercontent.com/38112871/156017673-68401a42-b1b9-4954-81ba-d44e9b58c55b.gif">
 
 <img align="right" src="https://user-images.githubusercontent.com/38112871/156041561-ce10121c-73f3-4522-8307-70ac9a92574e.gif">
 
