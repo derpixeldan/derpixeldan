@@ -10,7 +10,7 @@
 
 | https://github.com/derpixeldan/derpixeldan/labels/%CE%B2%CE%B1%CE%B4 | https://github.com/derpixeldan/derpixeldan/labels/g%CE%BF%CE%BF%CE%B4 |
 |--------|--------|
-| λομ sнομℓδ δο τнιs | λομ sнομℓδη'τ δο τнιs | 
+| λομ sнομℓδ δο τнιs | ~~λομ sнομℓδη'τ δο τнιs~~ | 
 
 ---
 
